@@ -1,0 +1,19 @@
+.tudo{
+  background-color: #005cbf;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.login{
+
+    background-color: #e9ecef;
+    height: auto    ;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+}
